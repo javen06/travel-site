@@ -1,3 +1,4 @@
+
 # Travel Site
 
 A simple static travel website built using HTML and CSS.
@@ -34,17 +35,29 @@ https://javen06.github.io/travel-site/
 - GitHub Pages
 
 ## Project Structure
+```text
 
 travel-site/
+
 ├── images/
+
 ├── .gitignore
+
 ├── README.md
+
 ├── about.html
+
 ├── blog.html
+
 ├── contact.html
+
 ├── index.html
+
 ├── style.css
+
 └── whereto.html
+
+```
 
 ## Pages
 
@@ -86,15 +99,7 @@ Through this project, I practised:
 - Using Git and GitHub for version control
 - Deploying a static website using GitHub Pages
 
-## Future Improvements
 
-- Improve mobile responsiveness
-- Make the layout more consistent across pages
-- Add better spacing, typography, and colour styling
-- Improve accessibility with better semantic HTML and alt text
-- Add more travel content and images
-- Add simple JavaScript interactivity
-- Refactor repeated HTML/CSS into cleaner reusable patterns
 
 ## Status
 
